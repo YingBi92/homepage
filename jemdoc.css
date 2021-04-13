@@ -9,6 +9,7 @@ table#tlayout {
 body {
 	background: white;
 	font-family: Arial;
+	font-size:0.9em;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -57,7 +58,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #09870A;
+	color: #3343FF;
 	text-decoration: none;
 }
 
@@ -118,7 +119,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #3343FF;
+	color: #CB6318;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
